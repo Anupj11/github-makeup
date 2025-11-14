@@ -80,24 +80,8 @@
     <img src="https://github.com/RishikeshOps/RishikeshOps/blob/2cc25b2346695d90429b3734f35e1705672369b0/Dynatrace_Logo_color_negative_vertical.png" height="80" />
   </a>
 </p>
-<!--
-  ## Hashnode Blogs (Expand to View)
-<!--
-<details>
-  <summary><b>Tap Me</b></summary>
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/get-the-latest-kubernetes-cheat-sheet-for-simplifying-container-orchestration&large=true&theme=dark"/>
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/maximizing-productivity-with-github-actions&large=true&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/jenkins-agent-to-master-node-connection-using-ssh-keys-deploying-project-on-agent&large=true&theme=dark"/>
- 
-<!--
- <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/declarative-jenkins-pipelines-simplifying-continuous-integration-and-deployment&large=false&theme=dark"/>
-<img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/what-is-docker-get-started-with-docker&large=false&theme=dark"/>
- 
-  <img src="https://hashnode-blog-cards.vercel.app/api/getHashnodeBlog?url=https://blogs.rishikeshops.in/create-an-aws-code-pipeline-with-aws-code-commit-code-build-code-deploy-tutorial&large=false&theme=dark"/>
-  -->
-
    
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> I’m always excited to meet new minds!  <b>Drop a “hi” anytime, and I’ll be more than happy to connect.</b> 😊</em>
    
 ## 📫 How to reach me? <img align="center" src="https://github.com/RishikeshOps/my_readme.md/blob/363fac5a1173a4727253e8e4a54104b604e5875b/Handshake.gif" height="33px" /></h3> 
 
