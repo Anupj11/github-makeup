@@ -68,7 +68,7 @@
   </a>
 </p>
    
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlkaWp5cXF2d3hyamMweGwxbXhoNW9va2tiYzMxMzg0djhsMm9jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpQjQVmdzTnOrpbTSj/giphy.gif" width="60"> <em><b>I’m always excited to meet new minds!</b>Drop a “hi” anytime, <b> and I’ll be more than happy to connect.</b> 😊</em>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlkaWp5cXF2d3hyamMweGwxbXhoNW9va2tiYzMxMzg0djhsMm9jbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jpQjQVmdzTnOrpbTSj/giphy.gif" width="60"><em><b>  I’m always excited to meet new minds!</b>Drop a “hi” anytime, <b> and I’ll be more than happy to connect.</b> 😊</em>
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/anup-jadhav/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:jadhavanup15@gmail.com) 💌 <br>
