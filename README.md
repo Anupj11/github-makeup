@@ -13,7 +13,7 @@
  
 <p align="center" >
   <samp>
-    Hey, My name is <em>Anup Jadhav</em> and I am a passionate DevOps⚙️ Engineer focused on building fast, reliable, and scalable software delivery pipelines. With strong expertise in cloud platforms, containerization, automation, and infrastructure-as-code, I streamline development workflows and accelerate product releases. I thrive on learning, continuously exploring modern DevOps tools and best practices to drive innovation and enhance engineering efficiency. My goal is to transform complex processes into smooth, automated, and high-performance systems that empower teams to deliver with confidence..🤖 :)
+    Hey, My name is <em>Anup Jadhav</em> and I am a passionate <b>DevOps Engineer </b> focused on building fast, reliable, and scalable software delivery pipelines. With strong expertise in cloud platforms, containerization, automation, and infrastructure-as-code, I streamline development workflows and accelerate product releases. I thrive on learning, continuously exploring modern DevOps tools and best practices to drive innovation and enhance engineering efficiency. My goal is to transform complex processes into smooth, automated, and high-performance systems that empower teams to deliver with confidence..🤖 :)
   </samp>
   <br/>
 </p>
