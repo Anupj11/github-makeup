@@ -24,10 +24,6 @@
    <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png"  height="70" />
   </a> 
-  <a href="https://cloud.google.com/" target="_blank" >
-    <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png"  height="70" />
-  </a>
-
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
@@ -37,9 +33,6 @@
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="80" />
   </a> 
-  <a href="https://argoproj.github.io/cd/" target="_blank" >
-    <img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png"  height="80" />
-  </a>
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
   </a>
