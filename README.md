@@ -20,7 +20,7 @@
   <br/>
 </p>
 
-<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250">
 
 
 ## :zap: Skills
