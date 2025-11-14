@@ -68,7 +68,7 @@
   </a>
 </p>
    
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXY3NG44MTh6MzBhMWF3MGZwc2d2eXJ1Zmx0djB4YWJ3ZWVjdGd4dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XROOE9NApITmCgF6dZ/giphy.gif" width="60"> <em><b>I’m always excited to meet new minds!</b>Drop a “hi” anytime, <b> and I’ll be more than happy to connect.</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I’m always excited to meet new minds!</b>Drop a “hi” anytime, <b> and I’ll be more than happy to connect.</b> 😊</em>
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/anup-jadhav/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:jadhavanup15@gmail.com) 💌 <br>
@@ -76,8 +76,5 @@
 
  -->
 <div align="center">
-
-### If you find my work helpful, feel free to leave a ⭐ on the repositories—it means a lot!
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
 
 
